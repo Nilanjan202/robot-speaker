@@ -19,3 +19,10 @@ A fun offline robot that speaks text entered in the browser using Python and HTM
 
 - Python 3.10 or 3.12
 - Install using: `pip install pyttsx3`
+
+## 👨‍💻 Author
+
+- **Nilanjan Sen**  
+- GitHub: [@Nilanjan202](https://github.com/Nilanjan202)
+
+---
