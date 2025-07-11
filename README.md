@@ -19,9 +19,3 @@ A fun offline robot that speaks text entered in the browser using Python and HTM
 
 - Python 3.10 or 3.12
 - Install using: `pip install pyttsx3`
-
-## ✅ Steps to Upload to GitHub
-
-1. **Create a GitHub repo** (e.g. `cartoon-robot-speaker`)
-2. Open VS Code → open terminal in your folder
-
